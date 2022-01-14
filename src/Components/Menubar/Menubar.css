@@ -1,0 +1,21 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(22, 21, 21);
+    cursor: pointer;
+    padding-top: 15px;
+    text-decoration: none;
+  }
+  .menubar{
+      background-color: rgb(32, 27, 27);
+      color: white;
+  }
+
+
+  .logo-img{
+      padding-bottom: 10px;
+  }
+
+

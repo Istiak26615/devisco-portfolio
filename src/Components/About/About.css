@@ -1,0 +1,16 @@
+.about img{
+    margin: 20px;
+ }
+ 
+ .about-description{
+     margin:20px
+ }
+
+ .about-image{
+     height: 60%;
+     width: 60%;
+     border: 1px solid white;
+     border-radius: 10px;
+     margin-left: 70px;
+    
+ }
